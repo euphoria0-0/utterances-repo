@@ -1,2 +1,1 @@
 # utterances-repo
-install utterances
